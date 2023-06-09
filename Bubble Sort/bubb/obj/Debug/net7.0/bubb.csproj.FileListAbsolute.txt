@@ -1,0 +1,15 @@
+C:\Users\adith\OneDrive\Desktop\Main\bubb\bubb\bin\Debug\net7.0\bubb.exe
+C:\Users\adith\OneDrive\Desktop\Main\bubb\bubb\bin\Debug\net7.0\bubb.deps.json
+C:\Users\adith\OneDrive\Desktop\Main\bubb\bubb\bin\Debug\net7.0\bubb.runtimeconfig.json
+C:\Users\adith\OneDrive\Desktop\Main\bubb\bubb\bin\Debug\net7.0\bubb.dll
+C:\Users\adith\OneDrive\Desktop\Main\bubb\bubb\bin\Debug\net7.0\bubb.pdb
+C:\Users\adith\OneDrive\Desktop\Main\bubb\bubb\obj\Debug\net7.0\bubb.csproj.AssemblyReference.cache
+C:\Users\adith\OneDrive\Desktop\Main\bubb\bubb\obj\Debug\net7.0\bubb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adith\OneDrive\Desktop\Main\bubb\bubb\obj\Debug\net7.0\bubb.AssemblyInfoInputs.cache
+C:\Users\adith\OneDrive\Desktop\Main\bubb\bubb\obj\Debug\net7.0\bubb.AssemblyInfo.cs
+C:\Users\adith\OneDrive\Desktop\Main\bubb\bubb\obj\Debug\net7.0\bubb.csproj.CoreCompileInputs.cache
+C:\Users\adith\OneDrive\Desktop\Main\bubb\bubb\obj\Debug\net7.0\bubb.dll
+C:\Users\adith\OneDrive\Desktop\Main\bubb\bubb\obj\Debug\net7.0\refint\bubb.dll
+C:\Users\adith\OneDrive\Desktop\Main\bubb\bubb\obj\Debug\net7.0\bubb.pdb
+C:\Users\adith\OneDrive\Desktop\Main\bubb\bubb\obj\Debug\net7.0\bubb.genruntimeconfig.cache
+C:\Users\adith\OneDrive\Desktop\Main\bubb\bubb\obj\Debug\net7.0\ref\bubb.dll

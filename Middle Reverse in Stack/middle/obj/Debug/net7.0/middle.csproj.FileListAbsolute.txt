@@ -1,0 +1,15 @@
+C:\Users\adith\OneDrive\Desktop\Main\middle\middle\bin\Debug\net7.0\middle.exe
+C:\Users\adith\OneDrive\Desktop\Main\middle\middle\bin\Debug\net7.0\middle.deps.json
+C:\Users\adith\OneDrive\Desktop\Main\middle\middle\bin\Debug\net7.0\middle.runtimeconfig.json
+C:\Users\adith\OneDrive\Desktop\Main\middle\middle\bin\Debug\net7.0\middle.dll
+C:\Users\adith\OneDrive\Desktop\Main\middle\middle\bin\Debug\net7.0\middle.pdb
+C:\Users\adith\OneDrive\Desktop\Main\middle\middle\obj\Debug\net7.0\middle.csproj.AssemblyReference.cache
+C:\Users\adith\OneDrive\Desktop\Main\middle\middle\obj\Debug\net7.0\middle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adith\OneDrive\Desktop\Main\middle\middle\obj\Debug\net7.0\middle.AssemblyInfoInputs.cache
+C:\Users\adith\OneDrive\Desktop\Main\middle\middle\obj\Debug\net7.0\middle.AssemblyInfo.cs
+C:\Users\adith\OneDrive\Desktop\Main\middle\middle\obj\Debug\net7.0\middle.csproj.CoreCompileInputs.cache
+C:\Users\adith\OneDrive\Desktop\Main\middle\middle\obj\Debug\net7.0\middle.dll
+C:\Users\adith\OneDrive\Desktop\Main\middle\middle\obj\Debug\net7.0\refint\middle.dll
+C:\Users\adith\OneDrive\Desktop\Main\middle\middle\obj\Debug\net7.0\middle.pdb
+C:\Users\adith\OneDrive\Desktop\Main\middle\middle\obj\Debug\net7.0\middle.genruntimeconfig.cache
+C:\Users\adith\OneDrive\Desktop\Main\middle\middle\obj\Debug\net7.0\ref\middle.dll

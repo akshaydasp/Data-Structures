@@ -1,0 +1,15 @@
+C:\Users\adith\OneDrive\Desktop\Main\Graph\Graph\bin\Debug\net7.0\Graph.exe
+C:\Users\adith\OneDrive\Desktop\Main\Graph\Graph\bin\Debug\net7.0\Graph.deps.json
+C:\Users\adith\OneDrive\Desktop\Main\Graph\Graph\bin\Debug\net7.0\Graph.runtimeconfig.json
+C:\Users\adith\OneDrive\Desktop\Main\Graph\Graph\bin\Debug\net7.0\Graph.dll
+C:\Users\adith\OneDrive\Desktop\Main\Graph\Graph\bin\Debug\net7.0\Graph.pdb
+C:\Users\adith\OneDrive\Desktop\Main\Graph\Graph\obj\Debug\net7.0\Graph.csproj.AssemblyReference.cache
+C:\Users\adith\OneDrive\Desktop\Main\Graph\Graph\obj\Debug\net7.0\Graph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adith\OneDrive\Desktop\Main\Graph\Graph\obj\Debug\net7.0\Graph.AssemblyInfoInputs.cache
+C:\Users\adith\OneDrive\Desktop\Main\Graph\Graph\obj\Debug\net7.0\Graph.AssemblyInfo.cs
+C:\Users\adith\OneDrive\Desktop\Main\Graph\Graph\obj\Debug\net7.0\Graph.csproj.CoreCompileInputs.cache
+C:\Users\adith\OneDrive\Desktop\Main\Graph\Graph\obj\Debug\net7.0\Graph.dll
+C:\Users\adith\OneDrive\Desktop\Main\Graph\Graph\obj\Debug\net7.0\refint\Graph.dll
+C:\Users\adith\OneDrive\Desktop\Main\Graph\Graph\obj\Debug\net7.0\Graph.pdb
+C:\Users\adith\OneDrive\Desktop\Main\Graph\Graph\obj\Debug\net7.0\Graph.genruntimeconfig.cache
+C:\Users\adith\OneDrive\Desktop\Main\Graph\Graph\obj\Debug\net7.0\ref\Graph.dll

@@ -1,0 +1,15 @@
+C:\Users\adith\OneDrive\Desktop\Main\Trie\Trie\obj\Debug\net7.0\Trie.csproj.AssemblyReference.cache
+C:\Users\adith\OneDrive\Desktop\Main\Trie\Trie\obj\Debug\net7.0\Trie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adith\OneDrive\Desktop\Main\Trie\Trie\obj\Debug\net7.0\Trie.AssemblyInfoInputs.cache
+C:\Users\adith\OneDrive\Desktop\Main\Trie\Trie\obj\Debug\net7.0\Trie.AssemblyInfo.cs
+C:\Users\adith\OneDrive\Desktop\Main\Trie\Trie\obj\Debug\net7.0\Trie.csproj.CoreCompileInputs.cache
+C:\Users\adith\OneDrive\Desktop\Main\Trie\Trie\bin\Debug\net7.0\Trie.exe
+C:\Users\adith\OneDrive\Desktop\Main\Trie\Trie\bin\Debug\net7.0\Trie.deps.json
+C:\Users\adith\OneDrive\Desktop\Main\Trie\Trie\bin\Debug\net7.0\Trie.runtimeconfig.json
+C:\Users\adith\OneDrive\Desktop\Main\Trie\Trie\bin\Debug\net7.0\Trie.dll
+C:\Users\adith\OneDrive\Desktop\Main\Trie\Trie\bin\Debug\net7.0\Trie.pdb
+C:\Users\adith\OneDrive\Desktop\Main\Trie\Trie\obj\Debug\net7.0\Trie.dll
+C:\Users\adith\OneDrive\Desktop\Main\Trie\Trie\obj\Debug\net7.0\refint\Trie.dll
+C:\Users\adith\OneDrive\Desktop\Main\Trie\Trie\obj\Debug\net7.0\Trie.pdb
+C:\Users\adith\OneDrive\Desktop\Main\Trie\Trie\obj\Debug\net7.0\Trie.genruntimeconfig.cache
+C:\Users\adith\OneDrive\Desktop\Main\Trie\Trie\obj\Debug\net7.0\ref\Trie.dll

@@ -1,0 +1,15 @@
+C:\Users\adith\OneDrive\Desktop\Main\Tree\Tree\bin\Debug\net7.0\Tree.exe
+C:\Users\adith\OneDrive\Desktop\Main\Tree\Tree\bin\Debug\net7.0\Tree.deps.json
+C:\Users\adith\OneDrive\Desktop\Main\Tree\Tree\bin\Debug\net7.0\Tree.runtimeconfig.json
+C:\Users\adith\OneDrive\Desktop\Main\Tree\Tree\bin\Debug\net7.0\Tree.dll
+C:\Users\adith\OneDrive\Desktop\Main\Tree\Tree\bin\Debug\net7.0\Tree.pdb
+C:\Users\adith\OneDrive\Desktop\Main\Tree\Tree\obj\Debug\net7.0\Tree.csproj.AssemblyReference.cache
+C:\Users\adith\OneDrive\Desktop\Main\Tree\Tree\obj\Debug\net7.0\Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adith\OneDrive\Desktop\Main\Tree\Tree\obj\Debug\net7.0\Tree.AssemblyInfoInputs.cache
+C:\Users\adith\OneDrive\Desktop\Main\Tree\Tree\obj\Debug\net7.0\Tree.AssemblyInfo.cs
+C:\Users\adith\OneDrive\Desktop\Main\Tree\Tree\obj\Debug\net7.0\Tree.csproj.CoreCompileInputs.cache
+C:\Users\adith\OneDrive\Desktop\Main\Tree\Tree\obj\Debug\net7.0\Tree.dll
+C:\Users\adith\OneDrive\Desktop\Main\Tree\Tree\obj\Debug\net7.0\refint\Tree.dll
+C:\Users\adith\OneDrive\Desktop\Main\Tree\Tree\obj\Debug\net7.0\Tree.pdb
+C:\Users\adith\OneDrive\Desktop\Main\Tree\Tree\obj\Debug\net7.0\Tree.genruntimeconfig.cache
+C:\Users\adith\OneDrive\Desktop\Main\Tree\Tree\obj\Debug\net7.0\ref\Tree.dll
